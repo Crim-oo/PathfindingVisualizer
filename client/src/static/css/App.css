@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gridContainer {
+  margin-top: 100px;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(50, 0fr);
+}

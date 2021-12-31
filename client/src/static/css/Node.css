@@ -1,0 +1,17 @@
+.node {
+  outline: 1px solid rgb(93, 112, 128);
+  width: 25px;
+  height: 25px;
+}
+
+.start {
+  background-color: blue;
+}
+
+.finish {
+  background-color: red;
+}
+
+.wall {
+  background-color: black;
+}
