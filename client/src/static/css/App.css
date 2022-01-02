@@ -1,12 +1,64 @@
 .App {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
+.containerAll {
+  text-align: center;
+}
+
 .gridContainer {
-  margin-top: 100px;
+  margin-top: 50px;
   display: grid;
   justify-content: center;
-  grid-template-columns: repeat(50, 0fr);
+  grid-template-columns: repeat(20, 0fr);
+  row-gap: 5px;
+  column-gap: 5px;
+}
+
+.menuContainer {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 10px;
+}
+
+.menuContainer button {
+  align-self: flex-end;
+}
+
+.selectAlgo {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 5px;
+}
+
+.btn,
+.select {
+  height: 25px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: bold;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: #2ee59d;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.algoText {
+  font-weight: bold;
 }

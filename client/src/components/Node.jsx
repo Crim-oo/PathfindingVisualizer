@@ -9,8 +9,10 @@ const Node = (props) => {
     : props.isWall
     ? 'wall'
     : '';
+
   return (
     <div
+      id={`${props.row}-${props.col}`}
       className={`node ${newProperty}`}
       onMouseUp={() => props.onMouseUp()}
       onMouseEnter={() => props.onMouseEnter(props.row, props.col)}

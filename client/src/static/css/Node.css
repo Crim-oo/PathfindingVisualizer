@@ -1,7 +1,9 @@
 .node {
-  outline: 1px solid rgb(93, 112, 128);
-  width: 25px;
-  height: 25px;
+  outline: 2px solid rgb(8, 87, 151);
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 .start {
@@ -14,4 +16,12 @@
 
 .wall {
   background-color: black;
+}
+
+.visited {
+  background-color: brown;
+}
+
+.shortestPath {
+  background-color: yellow;
 }
