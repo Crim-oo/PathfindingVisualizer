@@ -35,10 +35,11 @@ A simple web application that allows you to show and visualize how different pat
     ```bash
     npm start 
     ```
- ## Credits
-- [Clément Mihailescu's](https://github.com/clementmihailescu/Pathfinding-Visualizer) similar project inspired me a lot for the UI and the project itself
 
 # Screenshots
 <img src='/Images/Init.png' />
 <img src='/Images/Draw.png' />
 <img src='/Images/Final.png' />
+
+ ## Credits
+- [Clément Mihailescu's](https://github.com/clementmihailescu/Pathfinding-Visualizer) similar project inspired me a lot for the UI and the project itself
