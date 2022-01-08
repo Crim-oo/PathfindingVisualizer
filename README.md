@@ -20,23 +20,20 @@ A simple web application that allows you to show and visualize how different pat
     git clone https://github.com/Crim-oo/Montreal-Sundae-Tracker.git
     ```
 
-2. Set up the `client and the server`
+2. Set up the `client`
 
     Install the required dependencies:
 
-    ```bash
-    cd server/ && npm i 
-    ```
      ```bash
     cd client/ && npm i 
     ```
     
 3. Run the `application`
     
-    Enter this command on the folder "server" of the project.
+    Enter this command on the folder "client" of the project.
     
     ```bash
-    npm run dev 
+    npm start 
     ```
  ## Credits
 - [Clément Mihailescu's](https://github.com/clementmihailescu/Pathfinding-Visualizer) similar project inspired me a lot for the UI and the project itself
