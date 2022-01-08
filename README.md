@@ -39,7 +39,7 @@ A simple web application that allows you to show and visualize how different pat
     npm run dev 
     ```
  ## Credits
-
+- [Clément Mihailescu's](https://github.com/clementmihailescu) similar project inspired me a lot for the UI and the project itself
 
 # Screenshots
 <img src='/image/Init.png' />
