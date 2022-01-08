@@ -39,7 +39,6 @@ A simple web application that allows you to show and visualize how different pat
 - [Clément Mihailescu's](https://github.com/clementmihailescu/Pathfinding-Visualizer) similar project inspired me a lot for the UI and the project itself
 
 # Screenshots
-<img src='/image/Init.png' />
-<img src='/image/Data.png' />
-<img src='/image/Available.png' />
-<img src='/image/Unavailable.png' />
+<img src='/Images/Init.png' />
+<img src='/Images/Draw.png' />
+<img src='/Images/Final.png' />
