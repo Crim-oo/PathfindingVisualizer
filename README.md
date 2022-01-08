@@ -17,7 +17,7 @@ A simple web application that allows you to show and visualize how different pat
 1. Clone the repo
 
     ```bash
-    git clone https://github.com/Crim-oo/Montreal-Sundae-Tracker.git
+    git clone https://github.com/Crim-oo/PathfindingVisualizer.git
     ```
 
 2. Set up the `client`
