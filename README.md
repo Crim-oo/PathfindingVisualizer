@@ -1,10 +1,10 @@
 # PathfindingVisualizer
+A simple web application that allows you to show and visualize how different pathfinding algorithms work.
+
 ## Technologies Used
 - React
 
-## Meet the Algorithms
-
-This application supports the following algorithms: 
+## Algorithms Used
 
 **Dijkstra's Algorithm** (unweighted): the father of pathfinding algorithms; guarantees the shortest path
 
@@ -38,6 +38,7 @@ This application supports the following algorithms:
     ```bash
     npm run dev 
     ```
+ ## Credits
 
 
 # Screenshots
